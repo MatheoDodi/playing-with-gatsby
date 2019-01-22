@@ -320,7 +320,7 @@
       "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
       "id": "14fbfb41-7ac7-574b-bbfb-61d813b30165",
       "name": "gatsby-source-filesystem",
-      "version": "2.0.12",
+      "version": "2.0.16",
       "pluginOptions": {
         "plugins": [],
         "name": "images",
@@ -336,7 +336,7 @@
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
-        "version": "2.0.12",
+        "version": "2.0.16",
         "keywords": [
           "gatsby",
           "gatsby-plugin"
@@ -388,6 +388,10 @@
             "version": "^4.0.2"
           },
           {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
             "name": "read-chunk",
             "version": "^3.0.0"
           },
@@ -434,7 +438,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6afc0edb840afffe8865ab70c3523844",
+        "contentDigest": "ed72f1fe8cbc84e5236addd5a39bf3dd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -757,11 +761,281 @@
         "owner": "internal-data-bridge"
       }
     },
+    "b6e562ad-42ed-59b4-95c1-72ac718305d3": {
+      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
+      "id": "b6e562ad-42ed-59b4-95c1-72ac718305d3",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.16",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "182998f71909640386ad181fe263aafa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.0",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "edf8dd884c5e8788afc7940c815a281f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
       "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "f71389a14cd90efab9107f9a9804a15d",
+      "version": "a07e130f58d5e9f2cd74edf91c273302",
       "pluginOptions": {
         "plugins": []
       },
@@ -805,7 +1079,11 @@
           },
           {
             "name": "gatsby-source-filesystem",
-            "version": "^2.0.8"
+            "version": "^2.0.16"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.2.0"
           },
           {
             "name": "gatsby-transformer-sharp",
@@ -841,7 +1119,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f485f0bd2f3ed042312437a3208fd9f2",
+        "contentDigest": "b9c4494e09d035cd33be0f868af5b2bd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -959,12 +1237,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-22T06:54:26.394Z",
+      "buildTime": "2019-01-22T07:10:43.321Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0fa08f2b5a385a989703e228e92490de",
+        "contentDigest": "b79efce9682f133ebcc42ee2b3aa4671",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -972,9 +1250,9 @@
     "a855143b-359d-54fa-9092-a7dd9923e16a": {
       "id": "a855143b-359d-54fa-9092-a7dd9923e16a",
       "children": [],
-      "parent": "___SOURCE___",
+      "parent": null,
       "internal": {
-        "contentDigest": "a4c6ae7386b2c5fd62fb23fb3721005e",
+        "contentDigest": "94da92bcf7b202fe773d2c8cdb63c07c",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -986,7 +1264,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-01-22T00:56:50.576Z",
-      "accessTime": "2019-01-22T06:54:28.388Z",
+      "accessTime": "2019-01-22T07:10:45.391Z",
       "changeTime": "2019-01-22T00:56:50.576Z",
       "birthTime": "2019-01-22T00:56:50.575Z",
       "root": "/",
@@ -1004,11 +1282,11 @@
       "blksize": 4096,
       "ino": 9586112,
       "blocks": 0,
-      "atimeMs": 1548140068388.4011,
+      "atimeMs": 1548141045390.9106,
       "mtimeMs": 1548118610576.3374,
       "ctimeMs": 1548118610576.3374,
       "birthtimeMs": 1548118610575.4688,
-      "atime": "2019-01-22T06:54:28.388Z",
+      "atime": "2019-01-22T07:10:45.391Z",
       "mtime": "2019-01-22T00:56:50.576Z",
       "ctime": "2019-01-22T00:56:50.576Z",
       "birthtime": "2019-01-22T00:56:50.575Z"
@@ -1018,7 +1296,7 @@
       "children": [
         "27c0f845-44f3-5a3a-9c04-0cec88eaf107"
       ],
-      "parent": "___SOURCE___",
+      "parent": null,
       "internal": {
         "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
         "type": "File",
@@ -1033,7 +1311,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-01-22T00:56:50.577Z",
-      "accessTime": "2019-01-22T06:54:28.389Z",
+      "accessTime": "2019-01-22T07:02:08.389Z",
       "changeTime": "2019-01-22T00:56:50.577Z",
       "birthTime": "2019-01-22T00:56:50.576Z",
       "root": "/",
@@ -1051,11 +1329,11 @@
       "blksize": 4096,
       "ino": 9586114,
       "blocks": 48,
-      "atimeMs": 1548140068388.5718,
+      "atimeMs": 1548140528389.1987,
       "mtimeMs": 1548118610576.5093,
       "ctimeMs": 1548118610576.5093,
       "birthtimeMs": 1548118610576.3318,
-      "atime": "2019-01-22T06:54:28.389Z",
+      "atime": "2019-01-22T07:02:08.389Z",
       "mtime": "2019-01-22T00:56:50.577Z",
       "ctime": "2019-01-22T00:56:50.577Z",
       "birthtime": "2019-01-22T00:56:50.576Z"
@@ -1075,7 +1353,7 @@
       "children": [
         "b2ec77a0-dee1-590d-be69-be294d9dfebf"
       ],
-      "parent": "___SOURCE___",
+      "parent": null,
       "internal": {
         "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
         "type": "File",
@@ -1090,7 +1368,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-01-22T00:56:50.576Z",
-      "accessTime": "2019-01-22T06:54:28.389Z",
+      "accessTime": "2019-01-22T07:02:06.607Z",
       "changeTime": "2019-01-22T00:56:50.576Z",
       "birthTime": "2019-01-22T00:56:50.576Z",
       "root": "/",
@@ -1108,11 +1386,11 @@
       "blksize": 4096,
       "ino": 9586113,
       "blocks": 328,
-      "atimeMs": 1548140068388.5654,
+      "atimeMs": 1548140526606.6472,
       "mtimeMs": 1548118610576.249,
       "ctimeMs": 1548118610576.249,
       "birthtimeMs": 1548118610575.5125,
-      "atime": "2019-01-22T06:54:28.389Z",
+      "atime": "2019-01-22T07:02:06.607Z",
       "mtime": "2019-01-22T00:56:50.576Z",
       "ctime": "2019-01-22T00:56:50.576Z",
       "birthtime": "2019-01-22T00:56:50.576Z"
@@ -1126,6 +1404,116 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "4614ab75-11a4-526d-8d2e-c3ec68e14bc8": {
+      "id": "4614ab75-11a4-526d-8d2e-c3ec68e14bc8",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "44494c595e68db7d37c3d4cc6854413c",
+        "type": "Directory",
+        "description": "Directory \"src/posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-22T07:01:42.681Z",
+      "accessTime": "2019-01-22T07:10:45.399Z",
+      "changeTime": "2019-01-22T07:01:42.681Z",
+      "birthTime": "2019-01-22T07:01:04.471Z",
+      "root": "/",
+      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9633152,
+      "blocks": 0,
+      "atimeMs": 1548141045398.5676,
+      "mtimeMs": 1548140502680.6003,
+      "ctimeMs": 1548140502680.6003,
+      "birthtimeMs": 1548140464470.8093,
+      "atime": "2019-01-22T07:10:45.399Z",
+      "mtime": "2019-01-22T07:01:42.681Z",
+      "ctime": "2019-01-22T07:01:42.681Z",
+      "birthtime": "2019-01-22T07:01:04.471Z"
+    },
+    "d96d0326-23bb-5ef2-96e3-755c103f2215": {
+      "id": "d96d0326-23bb-5ef2-96e3-755c103f2215",
+      "children": [
+        "4879d151-b7f8-57ea-ae01-c9cf54e86dab"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "02f16cf6bd655b64c09f76962aceca9b",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/post1.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post1.md",
+      "relativePath": "post1.md",
+      "extension": "md",
+      "size": 670,
+      "prettySize": "670 B",
+      "modifiedTime": "2019-01-22T07:09:51.049Z",
+      "accessTime": "2019-01-22T07:09:51.049Z",
+      "changeTime": "2019-01-22T07:09:51.049Z",
+      "birthTime": "2019-01-22T07:01:42.681Z",
+      "root": "/",
+      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+      "base": "post1.md",
+      "ext": ".md",
+      "name": "post1",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9633154,
+      "blocks": 8,
+      "atimeMs": 1548140991048.7817,
+      "mtimeMs": 1548140991049.0793,
+      "ctimeMs": 1548140991049.0793,
+      "birthtimeMs": 1548140502680.5896,
+      "atime": "2019-01-22T07:09:51.049Z",
+      "mtime": "2019-01-22T07:09:51.049Z",
+      "ctime": "2019-01-22T07:09:51.049Z",
+      "birthtime": "2019-01-22T07:01:42.681Z"
+    },
+    "4879d151-b7f8-57ea-ae01-c9cf54e86dab": {
+      "id": "4879d151-b7f8-57ea-ae01-c9cf54e86dab",
+      "children": [],
+      "parent": "d96d0326-23bb-5ef2-96e3-755c103f2215",
+      "internal": {
+        "content": "\n# Hello\n\n##sub-heading\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\nLorem Ipsum has been the industry's standard dummy text ever since the\n1500s, when an unknown printer took a galley of type and scrambled it to\nmake a type specimen book. It has survived not only five centuries, but\nalso the leap into electronic typesetting, remaining essentially\nunchanged. It was popularised in the 1960s with the release of Letraset\nsheets containing Lorem Ipsum passages, and more recently with desktop\npublishing software like Aldus PageMaker including versions of Lorem\nIpsum.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "7d564b97baff14c5e2569d6669325e6c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My First Post",
+        "slug": "/first-post",
+        "date": "2019-01-21"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n# Hello\n\n##sub-heading\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\nLorem Ipsum has been the industry's standard dummy text ever since the\n1500s, when an unknown printer took a galley of type and scrambled it to\nmake a type specimen book. It has survived not only five centuries, but\nalso the leap into electronic typesetting, remaining essentially\nunchanged. It was popularised in the 1960s with the release of Letraset\nsheets containing Lorem Ipsum passages, and more recently with desktop\npublishing software like Aldus PageMaker including versions of Lorem\nIpsum.\n",
+      "fileAbsolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post1.md"
     },
     "SitePage /404/": {
       "jsonName": "404-22d",
@@ -1230,7 +1618,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "720e3a7d3e95e026286dfa9c0f37c141"
+    "PLUGINS_HASH": "6c270b74c4c1510bca60d719c7cdcbba"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -1246,7 +1634,12 @@
         "sq--src-components-image-js"
       ]
     },
-    "connections": {}
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        null
+      ]
+    }
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
@@ -1282,14 +1675,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
-      "hash": 2328579951
-    },
     "sq--src-components-image-js": {
       "name": "usersMatthewDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
       "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/image.js",
@@ -1297,6 +1682,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersMatthewDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 2328579951
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
