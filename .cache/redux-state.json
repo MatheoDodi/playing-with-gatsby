@@ -1614,6 +1614,72 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "2b8127cb-b4a0-5bcb-90b6-052448965fb5": {
+      "id": "2b8127cb-b4a0-5bcb-90b6-052448965fb5",
+      "children": [
+        "65191168-e04c-50be-964f-169e4a6ad49b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2adf5100b4927392b384cb780a65d47e",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/post2.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post2.md",
+      "relativePath": "post2.md",
+      "extension": "md",
+      "size": 93,
+      "prettySize": "93 B",
+      "modifiedTime": "2019-01-22T07:37:31.384Z",
+      "accessTime": "2019-01-22T07:37:31.384Z",
+      "changeTime": "2019-01-22T07:37:31.384Z",
+      "birthTime": "2019-01-22T07:23:28.853Z",
+      "root": "/",
+      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+      "base": "post2.md",
+      "ext": ".md",
+      "name": "post2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9636552,
+      "blocks": 8,
+      "atimeMs": 1548142651383.884,
+      "mtimeMs": 1548142651384.1882,
+      "ctimeMs": 1548142651384.1882,
+      "birthtimeMs": 1548141808852.998,
+      "atime": "2019-01-22T07:37:31.384Z",
+      "mtime": "2019-01-22T07:37:31.384Z",
+      "ctime": "2019-01-22T07:37:31.384Z",
+      "birthtime": "2019-01-22T07:23:28.853Z"
+    },
+    "65191168-e04c-50be-964f-169e4a6ad49b": {
+      "id": "65191168-e04c-50be-964f-169e4a6ad49b",
+      "children": [],
+      "parent": "2b8127cb-b4a0-5bcb-90b6-052448965fb5",
+      "internal": {
+        "content": "\n# Second One!\n\nYoo!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "828814733eb878172a76c786102d4340",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Second Post",
+        "slug": "/second-post",
+        "date": "2019-01-22"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n# Second One!\n\nYoo!\n",
+      "fileAbsolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post2.md"
     }
   },
   "status": {
@@ -1637,20 +1703,22 @@
     "connections": {
       "MarkdownRemark": [
         null,
-        null
+        null,
+        "sq--src-components-archive-js"
       ]
     }
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "sq--src-components-layout-js": 2328579951,
+    "sq--src-components-layout-js": 755544856,
     "sq--src-components-seo-js": 1025518380,
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "sq--src-components-image-js": 2011440971
+    "sq--src-components-image-js": 2011440971,
+    "sq--src-components-archive-js": 2597579002
   },
   "components": {
     "/Users/matthew/Documents/All-Projects/playing-with-gatsby/.cache/dev-404-page.js": {
@@ -1688,8 +1756,8 @@
       "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/layout.js",
       "id": "sq--src-components-layout-js",
       "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
-      "hash": 2328579951
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
@@ -1698,6 +1766,14 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 1025518380
+    },
+    "sq--src-components-archive-js": {
+      "name": "BlogPostArchive",
+      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/archive.js",
+      "id": "sq--src-components-archive-js",
+      "jsonName": "sq--src-components-archive-js",
+      "query": "query BlogPostArchive {\n  allMarkdownRemark(limit: 5, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        html\n        frontmatter {\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 2597579002
     }
   }
 }
