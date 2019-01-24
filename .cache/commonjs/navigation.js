@@ -49,18 +49,20 @@ function maybeRedirect(pathname) {
   }
 }
 
-const onPreRouteUpdate = location => {
+const onPreRouteUpdate = (location, prevLocation) => {
   if (!maybeRedirect(location.pathname)) {
     (0, _apiRunnerBrowser.apiRunner)(`onPreRouteUpdate`, {
-      location
+      location,
+      prevLocation
     });
   }
 };
 
-const onRouteUpdate = location => {
+const onRouteUpdate = (location, prevLocation) => {
   if (!maybeRedirect(location.pathname)) {
     (0, _apiRunnerBrowser.apiRunner)(`onRouteUpdate`, {
-      location
+      location,
+      prevLocation
     }); // Temp hack while awaiting https://github.com/reach/router/issues/119
 
     window.__navigatingToLink = false;
@@ -168,22 +170,22 @@ function init() {
 class RouteUpdates extends _react.default.Component {
   constructor(props) {
     super(props);
-    onPreRouteUpdate(props.location);
+    onPreRouteUpdate(props.location, null);
   }
 
   componentDidMount() {
-    onRouteUpdate(this.props.location);
+    onRouteUpdate(this.props.location, null);
   }
 
   componentDidUpdate(prevProps, prevState, shouldFireRouteUpdate) {
     if (shouldFireRouteUpdate) {
-      onRouteUpdate(this.props.location);
+      onRouteUpdate(this.props.location, prevProps.location);
     }
   }
 
   getSnapshotBeforeUpdate(prevProps) {
     if (this.props.location.pathname !== prevProps.location.pathname) {
-      onPreRouteUpdate(this.props.location);
+      onPreRouteUpdate(this.props.location, prevProps.location);
       return true;
     }
 

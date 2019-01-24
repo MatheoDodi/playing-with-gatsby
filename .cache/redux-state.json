@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/.cache/dev-404-page.js",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/.cache/dev-404-page.js",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e000135128a521f8f392e9a197df5c16",
+        "contentDigest": "74efb95465b6d5a9d2bb775a705bfac6",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -47,16 +47,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ca1217abd67af4fc4df7dc0ae46e3b29",
+        "contentDigest": "d0fdd474f8b7fec6165febb818020d89",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -82,16 +82,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "12b114a442b2a8e47fba640bb231338d",
+        "contentDigest": "b3503c02a1a09151a90c753e92952097",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -118,16 +118,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "50d776b9d9663dae9499653572e32bc0",
+        "contentDigest": "71b2c31969f058aa91dc14b209d952c1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -153,16 +153,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "eac8d0a548640154232a336f7b0e1626",
+        "contentDigest": "cad64ae5bff4e46b4c82551aa083427c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -188,16 +188,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "0d75f79f96cf34de701cce0b0a1bcca1",
+        "contentDigest": "ecd773d79d984f093d83dc77ba126add",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -209,7 +209,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -223,16 +223,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5584023d9b1df2bc67ecaef333290aef",
+        "contentDigest": "9602095411f423d380e54866255b388d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-react-helmet",
       "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.5",
@@ -244,7 +244,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -308,23 +308,23 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "dcbb06d7fcf4f2afaa5d689b5f611604",
+        "contentDigest": "96a68f837c47889e9b41635ecc6bbf5e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "14fbfb41-7ac7-574b-bbfb-61d813b30165": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
-      "id": "14fbfb41-7ac7-574b-bbfb-61d813b30165",
+    "9fba832f-a61a-5cf2-86b0-fb4e7bef2c1c": {
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
+      "id": "9fba832f-a61a-5cf2-86b0-fb4e7bef2c1c",
       "name": "gatsby-source-filesystem",
       "version": "2.0.16",
       "pluginOptions": {
         "plugins": [],
         "name": "images",
-        "path": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/images"
+        "path": "C:\\Users\\Matthew Dodi\\Documents\\All Projects\\playing-with-gatsby/src/images"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -332,7 +332,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -435,16 +435,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ed72f1fe8cbc84e5236addd5a39bf3dd",
+        "contentDigest": "432235619b7d9bb70cd008ab4e47efb9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-transformer-sharp",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-transformer-sharp",
       "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
       "name": "gatsby-transformer-sharp",
       "version": "2.1.9",
@@ -458,7 +458,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -531,16 +531,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "da60d0723db9ac8bb99130df40bda033",
+        "contentDigest": "23f35dff5fff182b464f524233aa6b79",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84d6154d-4241-556c-a679-cc8339cac100": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-sharp",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-sharp",
       "id": "84d6154d-4241-556c-a679-cc8339cac100",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.16",
@@ -552,7 +552,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -662,16 +662,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "587fd896e7c8a6a938626a0f00dfad5a",
+        "contentDigest": "7e70f084d2b84d374ac3e718a3d9eb85",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "112c12f8-b222-509b-abe0-dfe93a905df9": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-manifest",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-manifest",
       "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.12",
@@ -692,7 +692,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -753,22 +753,22 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "790bbdbbb8881fa73c2dfff100b5819f",
+        "contentDigest": "cfd4d2e5b3d2c7ccb441909415ff496b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "b6e562ad-42ed-59b4-95c1-72ac718305d3": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
-      "id": "b6e562ad-42ed-59b4-95c1-72ac718305d3",
+    "968a7e5f-3f86-5611-82bd-d39b45a64c48": {
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
+      "id": "968a7e5f-3f86-5611-82bd-d39b45a64c48",
       "name": "gatsby-source-filesystem",
       "version": "2.0.16",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+        "path": "C:\\Users\\Matthew Dodi\\Documents\\All Projects\\playing-with-gatsby/src/posts",
         "name": "posts"
       },
       "nodeAPIs": [
@@ -777,7 +777,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -880,16 +880,16 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "182998f71909640386ad181fe263aafa",
+        "contentDigest": "f7e287b32c163f413c3dbd0d72fd40bc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-transformer-remark",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-transformer-remark",
       "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
       "name": "gatsby-transformer-remark",
       "version": "2.2.0",
@@ -902,7 +902,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -1023,26 +1023,28 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "edf8dd884c5e8788afc7940c815a281f",
+        "contentDigest": "c9fc1cb8db3b56c67e2cfd642209abf8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby",
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "a07e130f58d5e9f2cd74edf91c273302",
+      "version": "a82390c05b40018d81cad1b9aa192623",
       "pluginOptions": {
         "plugins": []
       },
-      "nodeAPIs": [],
+      "nodeAPIs": [
+        "createPages"
+      ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "A simple starter to get up and developing quickly with Gatsby",
@@ -1055,7 +1057,7 @@
         "dependencies": [
           {
             "name": "gatsby",
-            "version": "^2.0.76"
+            "version": "^2.0.88"
           },
           {
             "name": "gatsby-image",
@@ -1116,22 +1118,22 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b9c4494e09d035cd33be0f868af5b2bd",
+        "contentDigest": "10c29d87b4e994e3b35b750607cda7f1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "5e28cc36-7833-53d0-b077-706801145a49": {
-      "resolve": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-page-creator",
-      "id": "5e28cc36-7833-53d0-b077-706801145a49",
+    "7987ab14-e944-5c3a-88c6-e0e889cc05b8": {
+      "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-page-creator",
+      "id": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.5",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages",
+        "path": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -1139,7 +1141,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -1219,10 +1221,10 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "141fa00d489888396e98bb6918f08281",
+        "contentDigest": "f02c710613bd734637744298971ff3c0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1237,439 +1239,372 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-22T07:10:43.321Z",
+      "buildTime": "2019-01-24T07:04:34.535Z",
       "id": "Site",
-      "parent": "SOURCE",
+      "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b79efce9682f133ebcc42ee2b3aa4671",
+        "contentDigest": "0a551ae5f9395cbae1414d42e51ddc7f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "a855143b-359d-54fa-9092-a7dd9923e16a": {
-      "id": "a855143b-359d-54fa-9092-a7dd9923e16a",
+    "d853d683-81d4-5ef0-b68e-1d4c1a574af1": {
+      "id": "d853d683-81d4-5ef0-b68e-1d4c1a574af1",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "94da92bcf7b202fe773d2c8cdb63c07c",
+        "contentDigest": "354cc7a0028cff12df9837a0b2af3f64",
         "type": "Directory",
-        "description": "Directory \"src/images\"",
+        "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/images",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2019-01-22T00:56:50.576Z",
-      "accessTime": "2019-01-22T07:10:45.391Z",
-      "changeTime": "2019-01-22T00:56:50.576Z",
-      "birthTime": "2019-01-22T00:56:50.575Z",
-      "root": "/",
-      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-01-24T05:22:45.866Z",
+      "accessTime": "2019-01-24T07:04:38.391Z",
+      "changeTime": "2019-01-24T05:22:45.866Z",
+      "birthTime": "2019-01-24T05:22:45.864Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src",
       "base": "images",
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 501,
-      "gid": 20,
+      "dev": 4064921307,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
       "rdev": 0,
-      "blksize": 4096,
-      "ino": 9586112,
-      "blocks": 0,
-      "atimeMs": 1548141045390.9106,
-      "mtimeMs": 1548118610576.3374,
-      "ctimeMs": 1548118610576.3374,
-      "birthtimeMs": 1548118610575.4688,
-      "atime": "2019-01-22T07:10:45.391Z",
-      "mtime": "2019-01-22T00:56:50.576Z",
-      "ctime": "2019-01-22T00:56:50.576Z",
-      "birthtime": "2019-01-22T00:56:50.575Z"
+      "ino": 4503599627437370,
+      "atimeMs": 1548313478391.0332,
+      "mtimeMs": 1548307365866.3142,
+      "ctimeMs": 1548307365866.3142,
+      "birthtimeMs": 1548307365864.3135,
+      "atime": "2019-01-24T07:04:38.391Z",
+      "mtime": "2019-01-24T05:22:45.866Z",
+      "ctime": "2019-01-24T05:22:45.866Z",
+      "birthtime": "2019-01-24T05:22:45.864Z"
     },
-    "7ac2163c-99c7-5b8e-896d-f971ca54f442": {
-      "id": "7ac2163c-99c7-5b8e-896d-f971ca54f442",
+    "cec162b4-e02b-59f1-9cda-0325bf5d87f8": {
+      "id": "cec162b4-e02b-59f1-9cda-0325bf5d87f8",
       "children": [
-        "27c0f845-44f3-5a3a-9c04-0cec88eaf107"
+        "f2e1a4bd-4f32-5666-8ba1-9d840f817b4a"
       ],
       "parent": null,
       "internal": {
         "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/gatsby-icon.png\"",
+        "description": "File \"src\\images\\gatsby-icon.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/images/gatsby-icon.png",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/images/gatsby-icon.png",
       "relativePath": "gatsby-icon.png",
       "extension": "png",
       "size": 21212,
       "prettySize": "21.2 kB",
-      "modifiedTime": "2019-01-22T00:56:50.577Z",
-      "accessTime": "2019-01-22T07:02:08.389Z",
-      "changeTime": "2019-01-22T00:56:50.577Z",
-      "birthTime": "2019-01-22T00:56:50.576Z",
-      "root": "/",
-      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/images",
+      "modifiedTime": "2019-01-24T05:22:45.866Z",
+      "accessTime": "2019-01-24T07:03:22.812Z",
+      "changeTime": "2019-01-24T05:22:45.866Z",
+      "birthTime": "2019-01-24T05:22:45.866Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/images",
       "base": "gatsby-icon.png",
       "ext": ".png",
       "name": "gatsby-icon",
       "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
+      "dev": 4064921307,
+      "mode": 33206,
       "nlink": 1,
-      "uid": 501,
-      "gid": 20,
+      "uid": 0,
+      "gid": 0,
       "rdev": 0,
-      "blksize": 4096,
-      "ino": 9586114,
-      "blocks": 48,
-      "atimeMs": 1548140528389.1987,
-      "mtimeMs": 1548118610576.5093,
-      "ctimeMs": 1548118610576.5093,
-      "birthtimeMs": 1548118610576.3318,
-      "atime": "2019-01-22T07:02:08.389Z",
-      "mtime": "2019-01-22T00:56:50.577Z",
-      "ctime": "2019-01-22T00:56:50.577Z",
-      "birthtime": "2019-01-22T00:56:50.576Z"
+      "ino": 11821949021914444,
+      "atimeMs": 1548313402811.5247,
+      "mtimeMs": 1548307365866.3142,
+      "ctimeMs": 1548307365866.3142,
+      "birthtimeMs": 1548307365866.3142,
+      "atime": "2019-01-24T07:03:22.812Z",
+      "mtime": "2019-01-24T05:22:45.866Z",
+      "ctime": "2019-01-24T05:22:45.866Z",
+      "birthtime": "2019-01-24T05:22:45.866Z"
     },
-    "27c0f845-44f3-5a3a-9c04-0cec88eaf107": {
-      "id": "27c0f845-44f3-5a3a-9c04-0cec88eaf107",
+    "f2e1a4bd-4f32-5666-8ba1-9d840f817b4a": {
+      "id": "f2e1a4bd-4f32-5666-8ba1-9d840f817b4a",
       "children": [],
-      "parent": "7ac2163c-99c7-5b8e-896d-f971ca54f442",
+      "parent": "cec162b4-e02b-59f1-9cda-0325bf5d87f8",
       "internal": {
         "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "8f0fe849-9ef5-509c-af55-dca8e8707d38": {
-      "id": "8f0fe849-9ef5-509c-af55-dca8e8707d38",
+    "30f78004-7952-587d-b9cb-95f8c7c4efd5": {
+      "id": "30f78004-7952-587d-b9cb-95f8c7c4efd5",
       "children": [
-        "b2ec77a0-dee1-590d-be69-be294d9dfebf"
+        "5649b64c-6943-5197-a885-68404af65bbd"
       ],
       "parent": null,
       "internal": {
         "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "description": "File \"src\\images\\gatsby-astronaut.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/images/gatsby-astronaut.png",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/images/gatsby-astronaut.png",
       "relativePath": "gatsby-astronaut.png",
       "extension": "png",
       "size": 167273,
       "prettySize": "167 kB",
-      "modifiedTime": "2019-01-22T00:56:50.576Z",
-      "accessTime": "2019-01-22T07:02:06.607Z",
-      "changeTime": "2019-01-22T00:56:50.576Z",
-      "birthTime": "2019-01-22T00:56:50.576Z",
-      "root": "/",
-      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/images",
+      "modifiedTime": "2019-01-24T05:22:45.866Z",
+      "accessTime": "2019-01-24T07:02:47.803Z",
+      "changeTime": "2019-01-24T05:22:45.866Z",
+      "birthTime": "2019-01-24T05:22:45.865Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/images",
       "base": "gatsby-astronaut.png",
       "ext": ".png",
       "name": "gatsby-astronaut",
       "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
+      "dev": 4064921307,
+      "mode": 33206,
       "nlink": 1,
-      "uid": 501,
-      "gid": 20,
+      "uid": 0,
+      "gid": 0,
       "rdev": 0,
-      "blksize": 4096,
-      "ino": 9586113,
-      "blocks": 328,
-      "atimeMs": 1548140526606.6472,
-      "mtimeMs": 1548118610576.249,
-      "ctimeMs": 1548118610576.249,
-      "birthtimeMs": 1548118610575.5125,
-      "atime": "2019-01-22T07:02:06.607Z",
-      "mtime": "2019-01-22T00:56:50.576Z",
-      "ctime": "2019-01-22T00:56:50.576Z",
-      "birthtime": "2019-01-22T00:56:50.576Z"
+      "ino": 4503599627437374,
+      "atimeMs": 1548313367802.669,
+      "mtimeMs": 1548307365866.3142,
+      "ctimeMs": 1548307365866.3142,
+      "birthtimeMs": 1548307365865.3135,
+      "atime": "2019-01-24T07:02:47.803Z",
+      "mtime": "2019-01-24T05:22:45.866Z",
+      "ctime": "2019-01-24T05:22:45.866Z",
+      "birthtime": "2019-01-24T05:22:45.865Z"
     },
-    "b2ec77a0-dee1-590d-be69-be294d9dfebf": {
-      "id": "b2ec77a0-dee1-590d-be69-be294d9dfebf",
+    "5649b64c-6943-5197-a885-68404af65bbd": {
+      "id": "5649b64c-6943-5197-a885-68404af65bbd",
       "children": [],
-      "parent": "8f0fe849-9ef5-509c-af55-dca8e8707d38",
+      "parent": "30f78004-7952-587d-b9cb-95f8c7c4efd5",
       "internal": {
         "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "4614ab75-11a4-526d-8d2e-c3ec68e14bc8": {
-      "id": "4614ab75-11a4-526d-8d2e-c3ec68e14bc8",
+    "b7439e50-bcf6-507f-96d1-479f6270dff2": {
+      "id": "b7439e50-bcf6-507f-96d1-479f6270dff2",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "44494c595e68db7d37c3d4cc6854413c",
+        "contentDigest": "06d2b465629c52f798de83822c71279a",
         "type": "Directory",
-        "description": "Directory \"src/posts\"",
+        "description": "Directory \"src\\posts\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
       "relativePath": "",
       "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2019-01-22T07:01:42.681Z",
-      "accessTime": "2019-01-22T07:10:45.399Z",
-      "changeTime": "2019-01-22T07:01:42.681Z",
-      "birthTime": "2019-01-22T07:01:04.471Z",
-      "root": "/",
-      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-01-24T05:58:38.876Z",
+      "accessTime": "2019-01-24T07:04:38.406Z",
+      "changeTime": "2019-01-24T05:58:38.876Z",
+      "birthTime": "2019-01-24T05:22:45.867Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src",
       "base": "posts",
       "ext": "",
       "name": "posts",
       "relativeDirectory": "..",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9633152,
-      "blocks": 0,
-      "atimeMs": 1548141045398.5676,
-      "mtimeMs": 1548140502680.6003,
-      "ctimeMs": 1548140502680.6003,
-      "birthtimeMs": 1548140464470.8093,
-      "atime": "2019-01-22T07:10:45.399Z",
-      "mtime": "2019-01-22T07:01:42.681Z",
-      "ctime": "2019-01-22T07:01:42.681Z",
-      "birthtime": "2019-01-22T07:01:04.471Z"
-    },
-    "d96d0326-23bb-5ef2-96e3-755c103f2215": {
-      "id": "d96d0326-23bb-5ef2-96e3-755c103f2215",
-      "children": [
-        "4879d151-b7f8-57ea-ae01-c9cf54e86dab"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "02f16cf6bd655b64c09f76962aceca9b",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/post1.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post1.md",
-      "relativePath": "post1.md",
-      "extension": "md",
-      "size": 670,
-      "prettySize": "670 B",
-      "modifiedTime": "2019-01-22T07:09:51.049Z",
-      "accessTime": "2019-01-22T07:09:51.049Z",
-      "changeTime": "2019-01-22T07:09:51.049Z",
-      "birthTime": "2019-01-22T07:01:42.681Z",
-      "root": "/",
-      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
-      "base": "post1.md",
-      "ext": ".md",
-      "name": "post1",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
+      "dev": 4064921307,
+      "mode": 16822,
       "nlink": 1,
-      "uid": 501,
-      "gid": 20,
+      "uid": 0,
+      "gid": 0,
       "rdev": 0,
-      "blksize": 4096,
-      "ino": 9633154,
-      "blocks": 8,
-      "atimeMs": 1548140991048.7817,
-      "mtimeMs": 1548140991049.0793,
-      "ctimeMs": 1548140991049.0793,
-      "birthtimeMs": 1548140502680.5896,
-      "atime": "2019-01-22T07:09:51.049Z",
-      "mtime": "2019-01-22T07:09:51.049Z",
-      "ctime": "2019-01-22T07:09:51.049Z",
-      "birthtime": "2019-01-22T07:01:42.681Z"
+      "ino": 3940649674016254,
+      "atimeMs": 1548313478406.0266,
+      "mtimeMs": 1548309518875.8604,
+      "ctimeMs": 1548309518875.8604,
+      "birthtimeMs": 1548307365867.3132,
+      "atime": "2019-01-24T07:04:38.406Z",
+      "mtime": "2019-01-24T05:58:38.876Z",
+      "ctime": "2019-01-24T05:58:38.876Z",
+      "birthtime": "2019-01-24T05:22:45.867Z"
     },
-    "4879d151-b7f8-57ea-ae01-c9cf54e86dab": {
-      "id": "4879d151-b7f8-57ea-ae01-c9cf54e86dab",
-      "children": [],
-      "parent": "d96d0326-23bb-5ef2-96e3-755c103f2215",
-      "internal": {
-        "content": "\n# Hello\n\n##sub-heading\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\nLorem Ipsum has been the industry's standard dummy text ever since the\n1500s, when an unknown printer took a galley of type and scrambled it to\nmake a type specimen book. It has survived not only five centuries, but\nalso the leap into electronic typesetting, remaining essentially\nunchanged. It was popularised in the 1960s with the release of Letraset\nsheets containing Lorem Ipsum passages, and more recently with desktop\npublishing software like Aldus PageMaker including versions of Lorem\nIpsum.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "7d564b97baff14c5e2569d6669325e6c",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My First Post",
-        "slug": "/first-post",
-        "date": "2019-01-21"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n# Hello\n\n##sub-heading\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\nLorem Ipsum has been the industry's standard dummy text ever since the\n1500s, when an unknown printer took a galley of type and scrambled it to\nmake a type specimen book. It has survived not only five centuries, but\nalso the leap into electronic typesetting, remaining essentially\nunchanged. It was popularised in the 1960s with the release of Letraset\nsheets containing Lorem Ipsum passages, and more recently with desktop\npublishing software like Aldus PageMaker including versions of Lorem\nIpsum.\n",
-      "fileAbsolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post1.md"
-    },
-    "SitePage /404/": {
-      "jsonName": "404-22d",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "5e28cc36-7833-53d0-b077-706801145a49",
-      "pluginCreatorId": "5e28cc36-7833-53d0-b077-706801145a49",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bea59bd87ce81f432049c13ca308a455",
-        "description": "5e28cc36-7833-53d0-b077-706801145a49",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "jsonName": "about-f34",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "5e28cc36-7833-53d0-b077-706801145a49",
-      "pluginCreatorId": "5e28cc36-7833-53d0-b077-706801145a49",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/about.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b16d8ae46b9d3624b0d755cb96477af5",
-        "description": "5e28cc36-7833-53d0-b077-706801145a49",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "5e28cc36-7833-53d0-b077-706801145a49",
-      "pluginCreatorId": "5e28cc36-7833-53d0-b077-706801145a49",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5fdd8c995448a9d7d7e98462bec5789a",
-        "description": "5e28cc36-7833-53d0-b077-706801145a49",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "jsonName": "page-2-fbc",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "pluginCreator___NODE": "5e28cc36-7833-53d0-b077-706801145a49",
-      "pluginCreatorId": "5e28cc36-7833-53d0-b077-706801145a49",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "20681be5d3f1c40bdf4eca4b95f3c0d3",
-        "description": "5e28cc36-7833-53d0-b077-706801145a49",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0855b503737d61ec6c334f5c131f6348",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "2b8127cb-b4a0-5bcb-90b6-052448965fb5": {
-      "id": "2b8127cb-b4a0-5bcb-90b6-052448965fb5",
+    "47192857-837d-540b-b9f2-dc77877c40d6": {
+      "id": "47192857-837d-540b-b9f2-dc77877c40d6",
       "children": [
-        "65191168-e04c-50be-964f-169e4a6ad49b"
+        "9bdbdb40-9101-5d12-9c97-ccce7c49f299"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "2adf5100b4927392b384cb780a65d47e",
+        "contentDigest": "eed29b639f31ef2cbe01570fb9669c42",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"src/posts/post2.md\"",
+        "description": "File \"src\\posts\\post3.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post2.md",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post3.md",
+      "relativePath": "post3.md",
+      "extension": "md",
+      "size": 108,
+      "prettySize": "108 B",
+      "modifiedTime": "2019-01-24T07:02:54.295Z",
+      "accessTime": "2019-01-24T07:02:54.300Z",
+      "changeTime": "2019-01-24T07:02:54.295Z",
+      "birthTime": "2019-01-24T05:58:38.876Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
+      "base": "post3.md",
+      "ext": ".md",
+      "name": "post3",
+      "relativeDirectory": "",
+      "dev": 4064921307,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 11258999068548370,
+      "atimeMs": 1548313374300.162,
+      "mtimeMs": 1548313374295.1604,
+      "ctimeMs": 1548313374295.1604,
+      "birthtimeMs": 1548309518875.8604,
+      "atime": "2019-01-24T07:02:54.300Z",
+      "mtime": "2019-01-24T07:02:54.295Z",
+      "ctime": "2019-01-24T07:02:54.295Z",
+      "birthtime": "2019-01-24T05:58:38.876Z"
+    },
+    "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a": {
+      "id": "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a",
+      "children": [
+        "6e2980b3-33d1-5ddf-9028-e45b52ab52c7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3df4c40016feb404944e37ba4da59b25",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\posts\\post2.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post2.md",
       "relativePath": "post2.md",
       "extension": "md",
-      "size": 93,
-      "prettySize": "93 B",
-      "modifiedTime": "2019-01-22T07:37:31.384Z",
-      "accessTime": "2019-01-22T07:37:31.384Z",
-      "changeTime": "2019-01-22T07:37:31.384Z",
-      "birthTime": "2019-01-22T07:23:28.853Z",
-      "root": "/",
-      "dir": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2019-01-24T06:01:14.589Z",
+      "accessTime": "2019-01-24T07:03:22.813Z",
+      "changeTime": "2019-01-24T06:01:14.589Z",
+      "birthTime": "2019-01-24T05:22:45.868Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
       "base": "post2.md",
       "ext": ".md",
       "name": "post2",
       "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
+      "dev": 4064921307,
+      "mode": 33206,
       "nlink": 1,
-      "uid": 501,
-      "gid": 20,
+      "uid": 0,
+      "gid": 0,
       "rdev": 0,
-      "blksize": 4096,
-      "ino": 9636552,
-      "blocks": 8,
-      "atimeMs": 1548142651383.884,
-      "mtimeMs": 1548142651384.1882,
-      "ctimeMs": 1548142651384.1882,
-      "birthtimeMs": 1548141808852.998,
-      "atime": "2019-01-22T07:37:31.384Z",
-      "mtime": "2019-01-22T07:37:31.384Z",
-      "ctime": "2019-01-22T07:37:31.384Z",
-      "birthtime": "2019-01-22T07:23:28.853Z"
+      "ino": 4222124650726979,
+      "atimeMs": 1548313402812.5352,
+      "mtimeMs": 1548309674589.155,
+      "ctimeMs": 1548309674589.155,
+      "birthtimeMs": 1548307365868.314,
+      "atime": "2019-01-24T07:03:22.813Z",
+      "mtime": "2019-01-24T06:01:14.589Z",
+      "ctime": "2019-01-24T06:01:14.589Z",
+      "birthtime": "2019-01-24T05:22:45.868Z"
     },
-    "65191168-e04c-50be-964f-169e4a6ad49b": {
-      "id": "65191168-e04c-50be-964f-169e4a6ad49b",
-      "children": [],
-      "parent": "2b8127cb-b4a0-5bcb-90b6-052448965fb5",
+    "e9235e45-ad85-5e95-a5de-e16c4efa4332": {
+      "id": "e9235e45-ad85-5e95-a5de-e16c4efa4332",
+      "children": [
+        "22f29b4e-692e-55b0-8d10-21e650b123d4"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\n# Second One!\n\nYoo!\n",
+        "contentDigest": "5205fdf924403ad342eef8d88ba9d71a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\posts\\post1.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md",
+      "relativePath": "post1.md",
+      "extension": "md",
+      "size": 689,
+      "prettySize": "689 B",
+      "modifiedTime": "2019-01-24T07:03:20.649Z",
+      "accessTime": "2019-01-24T07:03:22.813Z",
+      "changeTime": "2019-01-24T07:03:20.649Z",
+      "birthTime": "2019-01-24T05:22:45.868Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
+      "base": "post1.md",
+      "ext": ".md",
+      "name": "post1",
+      "relativeDirectory": "",
+      "dev": 4064921307,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604148248,
+      "atimeMs": 1548313402812.5352,
+      "mtimeMs": 1548313400649.288,
+      "ctimeMs": 1548313400649.288,
+      "birthtimeMs": 1548307365868.314,
+      "atime": "2019-01-24T07:03:22.813Z",
+      "mtime": "2019-01-24T07:03:20.649Z",
+      "ctime": "2019-01-24T07:03:20.649Z",
+      "birthtime": "2019-01-24T05:22:45.868Z"
+    },
+    "9bdbdb40-9101-5d12-9c97-ccce7c49f299": {
+      "id": "9bdbdb40-9101-5d12-9c97-ccce7c49f299",
+      "children": [],
+      "parent": "47192857-837d-540b-b9f2-dc77877c40d6",
+      "internal": {
+        "content": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
         "type": "MarkdownRemark",
-        "contentDigest": "828814733eb878172a76c786102d4340",
+        "contentDigest": "16d35ce39652851d8185eb734136ce27",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Third Post",
+        "slug": "/third-post",
+        "date": "2019-01-23"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
+      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post3.md"
+    },
+    "6e2980b3-33d1-5ddf-9028-e45b52ab52c7": {
+      "id": "6e2980b3-33d1-5ddf-9028-e45b52ab52c7",
+      "children": [],
+      "parent": "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a",
+      "internal": {
+        "content": "\r\n# Second One!\r\n\r\nYoo!\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "05acb21f6c138a744e24b22b2d93c3c3",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1678,31 +1613,208 @@
         "date": "2019-01-22"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n# Second One!\n\nYoo!\n",
-      "fileAbsolutePath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/posts/post2.md"
+      "rawMarkdownBody": "\r\n# Second One!\r\n\r\nYoo!\r\n",
+      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post2.md"
+    },
+    "22f29b4e-692e-55b0-8d10-21e650b123d4": {
+      "id": "22f29b4e-692e-55b0-8d10-21e650b123d4",
+      "children": [],
+      "parent": "e9235e45-ad85-5e95-a5de-e16c4efa4332",
+      "internal": {
+        "content": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "51a7194bab4145e0bd31999b7d2b94db",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My First Post",
+        "slug": "/first-post",
+        "date": "2019-01-21"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
+      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md"
+    },
+    "SitePage /third-post": {
+      "jsonName": "third-post-f99",
+      "internalComponentName": "ComponentThirdPost",
+      "path": "/third-post",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "SitePage /third-post",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e4244feb5a0b2aea683500079be9b02a",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /second-post": {
+      "jsonName": "second-post-da0",
+      "internalComponentName": "ComponentSecondPost",
+      "path": "/second-post",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "SitePage /second-post",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ad5cf02e94bee27a2e72f0dfe52f8f55",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /first-post": {
+      "jsonName": "first-post-eb4",
+      "internalComponentName": "ComponentFirstPost",
+      "path": "/first-post",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "SitePage /first-post",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5546902bc353e4263e918518b2b50659",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "pluginCreatorId": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c83eaac489572928ddee1932280dfa0c",
+        "description": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "pluginCreatorId": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bcf54aae63ad8c1757b960bc5a695650",
+        "description": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "pluginCreatorId": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7bf403ae4d904b64f3d8053f35c3a55a",
+        "description": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "pluginCreator___NODE": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "pluginCreatorId": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0804287b061787540d8572dda08d0418",
+        "description": "7987ab14-e944-5c3a-88c6-e0e889cc05b8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7e98b69d0dcfea6922b67448dd0edf9d",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "6c270b74c4c1510bca60d719c7cdcbba"
+    "PLUGINS_HASH": "28d3aecdfc2653bb30172b8639ca0629"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/",
         "sq--src-components-layout-js",
         "sq--src-components-seo-js"
       ],
-      "8f0fe849-9ef5-509c-af55-dca8e8707d38": [
+      "30f78004-7952-587d-b9cb-95f8c7c4efd5": [
         "sq--src-components-image-js"
       ],
-      "b2ec77a0-dee1-590d-be69-be294d9dfebf": [
+      "5649b64c-6943-5197-a885-68404af65bbd": [
         "sq--src-components-image-js"
       ]
     },
     "connections": {
       "MarkdownRemark": [
-        null,
         null,
         "sq--src-components-archive-js"
       ]
@@ -1718,42 +1830,58 @@
     "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "sq--src-components-image-js": 2011440971,
-    "sq--src-components-archive-js": 2597579002
+    "sq--src-components-archive-js": 2597579002,
+    "somefakepage-bea": "601/path---somefakepage-bea-f3b-NZuapzHg3X9TaN1iIixfv1W23E",
+    "third-post-f99": "998/path---third-post-f-99-5fb-NZuapzHg3X9TaN1iIixfv1W23E",
+    "second-post-da0": "349/path---second-post-da-0-248-NZuapzHg3X9TaN1iIixfv1W23E",
+    "first-post-eb4": "158/path---first-post-eb-4-4f5-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/matthew/Documents/All-Projects/playing-with-gatsby/.cache/dev-404-page.js": {
+    "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js": {
       "query": "",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/.cache/dev-404-page.js"
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js"
     },
-    "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/404.js": {
+    "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/404.js"
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/.cache/dev-404-page.js"
     },
-    "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/about.js": {
+    "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/404.js": {
       "query": "",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/about.js"
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/404.js"
     },
-    "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/index.js": {
+    "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/about.js": {
       "query": "",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/index.js"
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/about.js"
     },
-    "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/page-2.js": {
+    "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/index.js": {
       "query": "",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/pages/page-2.js"
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/index.js"
+    },
+    "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/page-2.js": {
+      "query": "",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/pages/page-2.js"
     }
   },
   "staticQueryComponents": {
+    "sq--src-components-archive-js": {
+      "name": "BlogPostArchive",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/archive.js",
+      "id": "sq--src-components-archive-js",
+      "jsonName": "sq--src-components-archive-js",
+      "query": "query BlogPostArchive {\n  allMarkdownRemark(limit: 5, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        html\n        frontmatter {\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 2597579002
+    },
     "sq--src-components-image-js": {
-      "name": "usersMatthewDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/image.js",
+      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/image.js",
       "id": "sq--src-components-image-js",
       "jsonName": "sq--src-components-image-js",
-      "query": "query usersMatthewDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
     },
     "sq--src-components-layout-js": {
       "name": "SiteTitleQuery",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/layout.js",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/layout.js",
       "id": "sq--src-components-layout-js",
       "jsonName": "sq--src-components-layout-js",
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
@@ -1761,19 +1889,11 @@
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/seo.js",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/seo.js",
       "id": "sq--src-components-seo-js",
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 1025518380
-    },
-    "sq--src-components-archive-js": {
-      "name": "BlogPostArchive",
-      "componentPath": "/Users/matthew/Documents/All-Projects/playing-with-gatsby/src/components/archive.js",
-      "id": "sq--src-components-archive-js",
-      "jsonName": "sq--src-components-archive-js",
-      "query": "query BlogPostArchive {\n  allMarkdownRemark(limit: 5, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        html\n        frontmatter {\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
-      "hash": 2597579002
     }
   }
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
 
-const POST_ARCHIVE_QUERY = graphql`
+export const POST_ARCHIVE_QUERY = graphql`
   query BlogPostArchive {
     allMarkdownRemark(
       limit: 5
@@ -20,17 +20,17 @@ const POST_ARCHIVE_QUERY = graphql`
   }
 `;
 
-const Archive = ({ children }) => (
+const Archive = () => (
   <StaticQuery
     query={POST_ARCHIVE_QUERY}
     render={data => (
       <>
         <aside>
-          <h3>Archive</h3>
-          {data.allMarkdownRemark.edges.map(node => (
-            <h4 key={node.node.frontmatter.slug}>
-              <Link to={`/posts${node.node.frontmatter.slug}`}>
-                {node.node.frontmatter.title}
+          <h3> Archive </h3>
+          {data.allMarkdownRemark.edges.map(edge => (
+            <h4 key={edge.node.frontmatter.slug}>
+              <Link to={`/posts${edge.node.frontmatter.slug}`}>
+                {edge.node.frontmatter.title}
               </Link>
             </h4>
           ))}
