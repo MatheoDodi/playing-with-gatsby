@@ -24,18 +24,18 @@ const Archive = () => (
   <StaticQuery
     query={POST_ARCHIVE_QUERY}
     render={data => (
-      <>
+      <div style={{ marginTop: 'auto' }}>
         <aside>
           <h3> Archive </h3>
           {data.allMarkdownRemark.edges.map(edge => (
             <h4 key={edge.node.frontmatter.slug}>
-              <Link to={`/posts${edge.node.frontmatter.slug}`}>
+              <Link to={`${edge.node.frontmatter.slug}`}>
                 {edge.node.frontmatter.title}
               </Link>
             </h4>
           ))}
         </aside>
-      </>
+      </div>
     )}
   />
 );

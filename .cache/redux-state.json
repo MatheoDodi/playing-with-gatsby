@@ -1035,7 +1035,7 @@
       "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "a82390c05b40018d81cad1b9aa192623",
+      "version": "776599038516bb898a697a2e6701d9cf",
       "pluginOptions": {
         "plugins": []
       },
@@ -1121,7 +1121,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "10c29d87b4e994e3b35b750607cda7f1",
+        "contentDigest": "f43f5ebe89c02a37c7d23e53e3c0d8fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1239,12 +1239,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-24T07:04:34.535Z",
+      "buildTime": "2019-01-24T07:43:23.840Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "0a551ae5f9395cbae1414d42e51ddc7f",
+        "contentDigest": "8a80676dc5c46f02ce5759f2f6b54f9d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1254,7 +1254,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "354cc7a0028cff12df9837a0b2af3f64",
+        "contentDigest": "7d85962a8a30a4ea4278b699f3cb0444",
         "type": "Directory",
         "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1266,7 +1266,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-24T07:04:38.391Z",
+      "accessTime": "2019-01-24T07:43:28.395Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.864Z",
       "root": "C:/",
@@ -1282,11 +1282,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627437370,
-      "atimeMs": 1548313478391.0332,
+      "atimeMs": 1548315808395.2278,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365864.3135,
-      "atime": "2019-01-24T07:04:38.391Z",
+      "atime": "2019-01-24T07:43:28.395Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.864Z"
@@ -1311,7 +1311,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-24T07:03:22.812Z",
+      "accessTime": "2019-01-24T07:18:41.004Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.866Z",
       "root": "C:/",
@@ -1327,11 +1327,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11821949021914444,
-      "atimeMs": 1548313402811.5247,
+      "atimeMs": 1548314321003.7473,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365866.3142,
-      "atime": "2019-01-24T07:03:22.812Z",
+      "atime": "2019-01-24T07:18:41.004Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.866Z"
@@ -1366,7 +1366,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-24T07:02:47.803Z",
+      "accessTime": "2019-01-24T07:43:20.898Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.865Z",
       "root": "C:/",
@@ -1382,11 +1382,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627437374,
-      "atimeMs": 1548313367802.669,
+      "atimeMs": 1548315800898.4548,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365865.3135,
-      "atime": "2019-01-24T07:02:47.803Z",
+      "atime": "2019-01-24T07:43:20.898Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.865Z"
@@ -1406,7 +1406,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "06d2b465629c52f798de83822c71279a",
+        "contentDigest": "79fc463a49c14010aaccb3b4ae74fbb7",
         "type": "Directory",
         "description": "Directory \"src\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1418,7 +1418,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-24T05:58:38.876Z",
-      "accessTime": "2019-01-24T07:04:38.406Z",
+      "accessTime": "2019-01-24T07:43:28.412Z",
       "changeTime": "2019-01-24T05:58:38.876Z",
       "birthTime": "2019-01-24T05:22:45.867Z",
       "root": "C:/",
@@ -1434,14 +1434,59 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3940649674016254,
-      "atimeMs": 1548313478406.0266,
+      "atimeMs": 1548315808412.0823,
       "mtimeMs": 1548309518875.8604,
       "ctimeMs": 1548309518875.8604,
       "birthtimeMs": 1548307365867.3132,
-      "atime": "2019-01-24T07:04:38.406Z",
+      "atime": "2019-01-24T07:43:28.412Z",
       "mtime": "2019-01-24T05:58:38.876Z",
       "ctime": "2019-01-24T05:58:38.876Z",
       "birthtime": "2019-01-24T05:22:45.867Z"
+    },
+    "e9235e45-ad85-5e95-a5de-e16c4efa4332": {
+      "id": "e9235e45-ad85-5e95-a5de-e16c4efa4332",
+      "children": [
+        "22f29b4e-692e-55b0-8d10-21e650b123d4"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5205fdf924403ad342eef8d88ba9d71a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\posts\\post1.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md",
+      "relativePath": "post1.md",
+      "extension": "md",
+      "size": 689,
+      "prettySize": "689 B",
+      "modifiedTime": "2019-01-24T07:03:20.649Z",
+      "accessTime": "2019-01-24T07:18:37.266Z",
+      "changeTime": "2019-01-24T07:03:20.649Z",
+      "birthTime": "2019-01-24T05:22:45.868Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
+      "base": "post1.md",
+      "ext": ".md",
+      "name": "post1",
+      "relativeDirectory": "",
+      "dev": 4064921307,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604148248,
+      "atimeMs": 1548314317265.5388,
+      "mtimeMs": 1548313400649.288,
+      "ctimeMs": 1548313400649.288,
+      "birthtimeMs": 1548307365868.314,
+      "atime": "2019-01-24T07:18:37.266Z",
+      "mtime": "2019-01-24T07:03:20.649Z",
+      "ctime": "2019-01-24T07:03:20.649Z",
+      "birthtime": "2019-01-24T05:22:45.868Z"
     },
     "47192857-837d-540b-b9f2-dc77877c40d6": {
       "id": "47192857-837d-540b-b9f2-dc77877c40d6",
@@ -1463,7 +1508,7 @@
       "size": 108,
       "prettySize": "108 B",
       "modifiedTime": "2019-01-24T07:02:54.295Z",
-      "accessTime": "2019-01-24T07:02:54.300Z",
+      "accessTime": "2019-01-24T07:18:37.272Z",
       "changeTime": "2019-01-24T07:02:54.295Z",
       "birthTime": "2019-01-24T05:58:38.876Z",
       "root": "C:/",
@@ -1479,11 +1524,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11258999068548370,
-      "atimeMs": 1548313374300.162,
+      "atimeMs": 1548314317271.5505,
       "mtimeMs": 1548313374295.1604,
       "ctimeMs": 1548313374295.1604,
       "birthtimeMs": 1548309518875.8604,
-      "atime": "2019-01-24T07:02:54.300Z",
+      "atime": "2019-01-24T07:18:37.272Z",
       "mtime": "2019-01-24T07:02:54.295Z",
       "ctime": "2019-01-24T07:02:54.295Z",
       "birthtime": "2019-01-24T05:58:38.876Z"
@@ -1508,7 +1553,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2019-01-24T06:01:14.589Z",
-      "accessTime": "2019-01-24T07:03:22.813Z",
+      "accessTime": "2019-01-24T07:18:37.266Z",
       "changeTime": "2019-01-24T06:01:14.589Z",
       "birthTime": "2019-01-24T05:22:45.868Z",
       "root": "C:/",
@@ -1524,59 +1569,33 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4222124650726979,
-      "atimeMs": 1548313402812.5352,
+      "atimeMs": 1548314317265.5388,
       "mtimeMs": 1548309674589.155,
       "ctimeMs": 1548309674589.155,
       "birthtimeMs": 1548307365868.314,
-      "atime": "2019-01-24T07:03:22.813Z",
+      "atime": "2019-01-24T07:18:37.266Z",
       "mtime": "2019-01-24T06:01:14.589Z",
       "ctime": "2019-01-24T06:01:14.589Z",
       "birthtime": "2019-01-24T05:22:45.868Z"
     },
-    "e9235e45-ad85-5e95-a5de-e16c4efa4332": {
-      "id": "e9235e45-ad85-5e95-a5de-e16c4efa4332",
-      "children": [
-        "22f29b4e-692e-55b0-8d10-21e650b123d4"
-      ],
-      "parent": null,
+    "22f29b4e-692e-55b0-8d10-21e650b123d4": {
+      "id": "22f29b4e-692e-55b0-8d10-21e650b123d4",
+      "children": [],
+      "parent": "e9235e45-ad85-5e95-a5de-e16c4efa4332",
       "internal": {
-        "contentDigest": "5205fdf924403ad342eef8d88ba9d71a",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src\\posts\\post1.md\"",
-        "owner": "gatsby-source-filesystem"
+        "content": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "51a7194bab4145e0bd31999b7d2b94db",
+        "owner": "gatsby-transformer-remark"
       },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md",
-      "relativePath": "post1.md",
-      "extension": "md",
-      "size": 689,
-      "prettySize": "689 B",
-      "modifiedTime": "2019-01-24T07:03:20.649Z",
-      "accessTime": "2019-01-24T07:03:22.813Z",
-      "changeTime": "2019-01-24T07:03:20.649Z",
-      "birthTime": "2019-01-24T05:22:45.868Z",
-      "root": "C:/",
-      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
-      "base": "post1.md",
-      "ext": ".md",
-      "name": "post1",
-      "relativeDirectory": "",
-      "dev": 4064921307,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 4785074604148248,
-      "atimeMs": 1548313402812.5352,
-      "mtimeMs": 1548313400649.288,
-      "ctimeMs": 1548313400649.288,
-      "birthtimeMs": 1548307365868.314,
-      "atime": "2019-01-24T07:03:22.813Z",
-      "mtime": "2019-01-24T07:03:20.649Z",
-      "ctime": "2019-01-24T07:03:20.649Z",
-      "birthtime": "2019-01-24T05:22:45.868Z"
+      "frontmatter": {
+        "title": "My First Post",
+        "slug": "/first-post",
+        "date": "2019-01-21"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
+      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md"
     },
     "9bdbdb40-9101-5d12-9c97-ccce7c49f299": {
       "id": "9bdbdb40-9101-5d12-9c97-ccce7c49f299",
@@ -1616,24 +1635,27 @@
       "rawMarkdownBody": "\r\n# Second One!\r\n\r\nYoo!\r\n",
       "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post2.md"
     },
-    "22f29b4e-692e-55b0-8d10-21e650b123d4": {
-      "id": "22f29b4e-692e-55b0-8d10-21e650b123d4",
+    "SitePage /first-post": {
+      "jsonName": "first-post-eb4",
+      "internalComponentName": "ComponentFirstPost",
+      "path": "/first-post",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "/first-post"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "SitePage /first-post",
+      "parent": null,
       "children": [],
-      "parent": "e9235e45-ad85-5e95-a5de-e16c4efa4332",
       "internal": {
-        "content": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "51a7194bab4145e0bd31999b7d2b94db",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My First Post",
-        "slug": "/first-post",
-        "date": "2019-01-21"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
-      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md"
+        "type": "SitePage",
+        "contentDigest": "9cdaefb26442df1ff484e96053279fc0",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
     },
     "SitePage /third-post": {
       "jsonName": "third-post-f99",
@@ -1641,7 +1663,9 @@
       "path": "/third-post",
       "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
       "componentChunkName": "component---src-components-post-layout-js",
-      "context": {},
+      "context": {
+        "slug": "/third-post"
+      },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
@@ -1650,7 +1674,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e4244feb5a0b2aea683500079be9b02a",
+        "contentDigest": "702c30449594c0baf127f73c8b2c2e82",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1661,7 +1685,9 @@
       "path": "/second-post",
       "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
       "componentChunkName": "component---src-components-post-layout-js",
-      "context": {},
+      "context": {
+        "slug": "/second-post"
+      },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
@@ -1670,27 +1696,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad5cf02e94bee27a2e72f0dfe52f8f55",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /first-post": {
-      "jsonName": "first-post-eb4",
-      "internalComponentName": "ComponentFirstPost",
-      "path": "/first-post",
-      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "componentChunkName": "component---src-components-post-layout-js",
-      "context": {},
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "SitePage /first-post",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5546902bc353e4263e918518b2b50659",
+        "contentDigest": "1ea9ed38b5387512d5f0a60a9d51d8f4",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1798,13 +1804,13 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "28d3aecdfc2653bb30172b8639ca0629"
+    "PLUGINS_HASH": "b092997a304d18e5e6d65e017e0aaf94"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-layout-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-layout-js"
       ],
       "30f78004-7952-587d-b9cb-95f8c7c4efd5": [
         "sq--src-components-image-js"
@@ -1816,6 +1822,7 @@
     "connections": {
       "MarkdownRemark": [
         null,
+        "sq--src-components-post-layout-js",
         "sq--src-components-archive-js"
       ]
     }
@@ -1832,9 +1839,10 @@
     "sq--src-components-image-js": 2011440971,
     "sq--src-components-archive-js": 2597579002,
     "somefakepage-bea": "601/path---somefakepage-bea-f3b-NZuapzHg3X9TaN1iIixfv1W23E",
-    "third-post-f99": "998/path---third-post-f-99-5fb-NZuapzHg3X9TaN1iIixfv1W23E",
-    "second-post-da0": "349/path---second-post-da-0-248-NZuapzHg3X9TaN1iIixfv1W23E",
-    "first-post-eb4": "158/path---first-post-eb-4-4f5-NZuapzHg3X9TaN1iIixfv1W23E"
+    "third-post-f99": "761/path---third-post-f-99-5fb-8sJ5QmyyjW3IRJkzeYLl1rsMmlk",
+    "second-post-da0": "578/path---second-post-da-0-248-ILH8JKNM9pTEEhIH5AHETEb5N38",
+    "first-post-eb4": "563/path---first-post-eb-4-4f5-gbN6JYsXote2YP96yDfqMBSVic",
+    "sq--src-components-post-layout-js": 943640834
   },
   "components": {
     "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js": {
@@ -1871,6 +1879,14 @@
       "query": "query BlogPostArchive {\n  allMarkdownRemark(limit: 5, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        html\n        frontmatter {\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
       "hash": 2597579002
     },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
     "sq--src-components-image-js": {
       "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/image.js",
@@ -1879,13 +1895,13 @@
       "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
     },
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
+    "sq--src-components-post-layout-js": {
+      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs943640834",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "sq--src-components-post-layout-js",
+      "jsonName": "sq--src-components-post-layout-js",
+      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs943640834 {\n  allMarkdownRemark {\n    edges {\n      node {\n        excerpt\n        frontmatter {\n          slug\n          title\n          date\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 943640834
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
