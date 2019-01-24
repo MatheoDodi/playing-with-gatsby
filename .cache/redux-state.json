@@ -1809,8 +1809,8 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-seo-js",
-        "sq--src-components-layout-js"
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
       ],
       "30f78004-7952-587d-b9cb-95f8c7c4efd5": [
         "sq--src-components-image-js"
@@ -1822,8 +1822,8 @@
     "connections": {
       "MarkdownRemark": [
         null,
-        "sq--src-components-post-layout-js",
-        "sq--src-components-archive-js"
+        "sq--src-components-archive-js",
+        "sq--src-components-post-layout-js"
       ]
     }
   },
@@ -1842,7 +1842,7 @@
     "third-post-f99": "761/path---third-post-f-99-5fb-8sJ5QmyyjW3IRJkzeYLl1rsMmlk",
     "second-post-da0": "578/path---second-post-da-0-248-ILH8JKNM9pTEEhIH5AHETEb5N38",
     "first-post-eb4": "563/path---first-post-eb-4-4f5-gbN6JYsXote2YP96yDfqMBSVic",
-    "sq--src-components-post-layout-js": 943640834
+    "sq--src-components-post-layout-js": 129645451
   },
   "components": {
     "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js": {
@@ -1879,14 +1879,6 @@
       "query": "query BlogPostArchive {\n  allMarkdownRemark(limit: 5, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        html\n        frontmatter {\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
       "hash": 2597579002
     },
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
-    },
     "sq--src-components-image-js": {
       "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/image.js",
@@ -1895,13 +1887,13 @@
       "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
     },
-    "sq--src-components-post-layout-js": {
-      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs943640834",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "sq--src-components-post-layout-js",
-      "jsonName": "sq--src-components-post-layout-js",
-      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs943640834 {\n  allMarkdownRemark {\n    edges {\n      node {\n        excerpt\n        frontmatter {\n          slug\n          title\n          date\n        }\n      }\n    }\n  }\n}\n",
-      "hash": 943640834
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
@@ -1910,6 +1902,14 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 1025518380
+    },
+    "sq--src-components-post-layout-js": {
+      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs129645451",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "sq--src-components-post-layout-js",
+      "jsonName": "sq--src-components-post-layout-js",
+      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs129645451 {\n  allMarkdownRemark {\n    edges {\n      node {\n        excerpt(pruneLength: 100000)\n        frontmatter {\n          slug\n          title\n          date\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 129645451
     }
   }
 }

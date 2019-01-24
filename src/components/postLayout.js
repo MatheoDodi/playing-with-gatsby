@@ -12,7 +12,7 @@ class PostLayout extends Component {
             allMarkdownRemark {
               edges {
                 node {
-                  excerpt
+                  excerpt(pruneLength: 100000)
                   frontmatter {
                     slug
                     title
