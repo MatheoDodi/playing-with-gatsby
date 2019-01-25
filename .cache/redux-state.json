@@ -1239,12 +1239,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-24T07:43:23.840Z",
+      "buildTime": "2019-01-25T04:55:15.430Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8a80676dc5c46f02ce5759f2f6b54f9d",
+        "contentDigest": "6110a793fdfe25b646f8d49dea05e0cb",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1254,7 +1254,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7d85962a8a30a4ea4278b699f3cb0444",
+        "contentDigest": "2cb7b1df3a515e6974b7dd74d4f87504",
         "type": "Directory",
         "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1266,7 +1266,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-24T07:43:28.395Z",
+      "accessTime": "2019-01-25T04:55:19.241Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.864Z",
       "root": "C:/",
@@ -1282,11 +1282,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627437370,
-      "atimeMs": 1548315808395.2278,
+      "atimeMs": 1548392119241.433,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365864.3135,
-      "atime": "2019-01-24T07:43:28.395Z",
+      "atime": "2019-01-25T04:55:19.241Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.864Z"
@@ -1311,7 +1311,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-24T07:18:41.004Z",
+      "accessTime": "2019-01-25T04:51:57.864Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.866Z",
       "root": "C:/",
@@ -1327,11 +1327,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11821949021914444,
-      "atimeMs": 1548314321003.7473,
+      "atimeMs": 1548391917864.4316,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365866.3142,
-      "atime": "2019-01-24T07:18:41.004Z",
+      "atime": "2019-01-25T04:51:57.864Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.866Z"
@@ -1366,7 +1366,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-24T07:43:20.898Z",
+      "accessTime": "2019-01-25T04:52:20.430Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.865Z",
       "root": "C:/",
@@ -1382,11 +1382,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627437374,
-      "atimeMs": 1548315800898.4548,
+      "atimeMs": 1548391940429.8027,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365865.3135,
-      "atime": "2019-01-24T07:43:20.898Z",
+      "atime": "2019-01-25T04:52:20.430Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.865Z"
@@ -1406,7 +1406,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "79fc463a49c14010aaccb3b4ae74fbb7",
+        "contentDigest": "3638e27433c9cb34a1f348411ee183cf",
         "type": "Directory",
         "description": "Directory \"src\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1418,7 +1418,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-24T05:58:38.876Z",
-      "accessTime": "2019-01-24T07:43:28.412Z",
+      "accessTime": "2019-01-25T04:55:19.251Z",
       "changeTime": "2019-01-24T05:58:38.876Z",
       "birthTime": "2019-01-24T05:22:45.867Z",
       "root": "C:/",
@@ -1434,11 +1434,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3940649674016254,
-      "atimeMs": 1548315808412.0823,
+      "atimeMs": 1548392119251.435,
       "mtimeMs": 1548309518875.8604,
       "ctimeMs": 1548309518875.8604,
       "birthtimeMs": 1548307365867.3132,
-      "atime": "2019-01-24T07:43:28.412Z",
+      "atime": "2019-01-25T04:55:19.251Z",
       "mtime": "2019-01-24T05:58:38.876Z",
       "ctime": "2019-01-24T05:58:38.876Z",
       "birthtime": "2019-01-24T05:22:45.867Z"
@@ -1463,7 +1463,7 @@
       "size": 689,
       "prettySize": "689 B",
       "modifiedTime": "2019-01-24T07:03:20.649Z",
-      "accessTime": "2019-01-24T07:18:37.266Z",
+      "accessTime": "2019-01-25T04:51:54.250Z",
       "changeTime": "2019-01-24T07:03:20.649Z",
       "birthTime": "2019-01-24T05:22:45.868Z",
       "root": "C:/",
@@ -1479,13 +1479,58 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4785074604148248,
-      "atimeMs": 1548314317265.5388,
+      "atimeMs": 1548391914249.5415,
       "mtimeMs": 1548313400649.288,
       "ctimeMs": 1548313400649.288,
       "birthtimeMs": 1548307365868.314,
-      "atime": "2019-01-24T07:18:37.266Z",
+      "atime": "2019-01-25T04:51:54.250Z",
       "mtime": "2019-01-24T07:03:20.649Z",
       "ctime": "2019-01-24T07:03:20.649Z",
+      "birthtime": "2019-01-24T05:22:45.868Z"
+    },
+    "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a": {
+      "id": "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a",
+      "children": [
+        "6e2980b3-33d1-5ddf-9028-e45b52ab52c7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3df4c40016feb404944e37ba4da59b25",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\posts\\post2.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post2.md",
+      "relativePath": "post2.md",
+      "extension": "md",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2019-01-24T06:01:14.589Z",
+      "accessTime": "2019-01-25T04:51:54.250Z",
+      "changeTime": "2019-01-24T06:01:14.589Z",
+      "birthTime": "2019-01-24T05:22:45.868Z",
+      "root": "C:/",
+      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
+      "base": "post2.md",
+      "ext": ".md",
+      "name": "post2",
+      "relativeDirectory": "",
+      "dev": 4064921307,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4222124650726979,
+      "atimeMs": 1548391914249.5415,
+      "mtimeMs": 1548309674589.155,
+      "ctimeMs": 1548309674589.155,
+      "birthtimeMs": 1548307365868.314,
+      "atime": "2019-01-25T04:51:54.250Z",
+      "mtime": "2019-01-24T06:01:14.589Z",
+      "ctime": "2019-01-24T06:01:14.589Z",
       "birthtime": "2019-01-24T05:22:45.868Z"
     },
     "47192857-837d-540b-b9f2-dc77877c40d6": {
@@ -1508,7 +1553,7 @@
       "size": 108,
       "prettySize": "108 B",
       "modifiedTime": "2019-01-24T07:02:54.295Z",
-      "accessTime": "2019-01-24T07:18:37.272Z",
+      "accessTime": "2019-01-25T04:51:54.250Z",
       "changeTime": "2019-01-24T07:02:54.295Z",
       "birthTime": "2019-01-24T05:58:38.876Z",
       "root": "C:/",
@@ -1524,59 +1569,14 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11258999068548370,
-      "atimeMs": 1548314317271.5505,
+      "atimeMs": 1548391914249.5415,
       "mtimeMs": 1548313374295.1604,
       "ctimeMs": 1548313374295.1604,
       "birthtimeMs": 1548309518875.8604,
-      "atime": "2019-01-24T07:18:37.272Z",
+      "atime": "2019-01-25T04:51:54.250Z",
       "mtime": "2019-01-24T07:02:54.295Z",
       "ctime": "2019-01-24T07:02:54.295Z",
       "birthtime": "2019-01-24T05:58:38.876Z"
-    },
-    "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a": {
-      "id": "207f7a9a-e2e0-5c07-a09c-5d0e9367d16a",
-      "children": [
-        "6e2980b3-33d1-5ddf-9028-e45b52ab52c7"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "3df4c40016feb404944e37ba4da59b25",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src\\posts\\post2.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post2.md",
-      "relativePath": "post2.md",
-      "extension": "md",
-      "size": 102,
-      "prettySize": "102 B",
-      "modifiedTime": "2019-01-24T06:01:14.589Z",
-      "accessTime": "2019-01-24T07:18:37.266Z",
-      "changeTime": "2019-01-24T06:01:14.589Z",
-      "birthTime": "2019-01-24T05:22:45.868Z",
-      "root": "C:/",
-      "dir": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts",
-      "base": "post2.md",
-      "ext": ".md",
-      "name": "post2",
-      "relativeDirectory": "",
-      "dev": 4064921307,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 4222124650726979,
-      "atimeMs": 1548314317265.5388,
-      "mtimeMs": 1548309674589.155,
-      "ctimeMs": 1548309674589.155,
-      "birthtimeMs": 1548307365868.314,
-      "atime": "2019-01-24T07:18:37.266Z",
-      "mtime": "2019-01-24T06:01:14.589Z",
-      "ctime": "2019-01-24T06:01:14.589Z",
-      "birthtime": "2019-01-24T05:22:45.868Z"
     },
     "22f29b4e-692e-55b0-8d10-21e650b123d4": {
       "id": "22f29b4e-692e-55b0-8d10-21e650b123d4",
@@ -1597,25 +1597,6 @@
       "rawMarkdownBody": "\r\n# Hello\r\n\r\n##sub-heading\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry.\r\nLorem Ipsum has been the industry's standard dummy text ever since the\r\n1500s, when an unknown printer took a galley of type and scrambled it to\r\nmake a type specimen book. It has survived not only five centuries, but\r\nalso the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset\r\nsheets containing Lorem Ipsum passages, and more recently with desktop\r\npublishing software like Aldus PageMaker including versions of Lorem\r\nIpsum.\r\n",
       "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post1.md"
     },
-    "9bdbdb40-9101-5d12-9c97-ccce7c49f299": {
-      "id": "9bdbdb40-9101-5d12-9c97-ccce7c49f299",
-      "children": [],
-      "parent": "47192857-837d-540b-b9f2-dc77877c40d6",
-      "internal": {
-        "content": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "16d35ce39652851d8185eb734136ce27",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My Third Post",
-        "slug": "/third-post",
-        "date": "2019-01-23"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
-      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post3.md"
-    },
     "6e2980b3-33d1-5ddf-9028-e45b52ab52c7": {
       "id": "6e2980b3-33d1-5ddf-9028-e45b52ab52c7",
       "children": [],
@@ -1634,6 +1615,25 @@
       "excerpt": "",
       "rawMarkdownBody": "\r\n# Second One!\r\n\r\nYoo!\r\n",
       "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post2.md"
+    },
+    "9bdbdb40-9101-5d12-9c97-ccce7c49f299": {
+      "id": "9bdbdb40-9101-5d12-9c97-ccce7c49f299",
+      "children": [],
+      "parent": "47192857-837d-540b-b9f2-dc77877c40d6",
+      "internal": {
+        "content": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "16d35ce39652851d8185eb734136ce27",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Third Post",
+        "slug": "/third-post",
+        "date": "2019-01-23"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
+      "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post3.md"
     },
     "SitePage /first-post": {
       "jsonName": "first-post-eb4",
@@ -1657,28 +1657,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /third-post": {
-      "jsonName": "third-post-f99",
-      "internalComponentName": "ComponentThirdPost",
-      "path": "/third-post",
-      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "componentChunkName": "component---src-components-post-layout-js",
-      "context": {
-        "slug": "/third-post"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "SitePage /third-post",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "702c30449594c0baf127f73c8b2c2e82",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /second-post": {
       "jsonName": "second-post-da0",
       "internalComponentName": "ComponentSecondPost",
@@ -1697,6 +1675,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "1ea9ed38b5387512d5f0a60a9d51d8f4",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /third-post": {
+      "jsonName": "third-post-f99",
+      "internalComponentName": "ComponentThirdPost",
+      "path": "/third-post",
+      "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "/third-post"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
+      "id": "SitePage /third-post",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "702c30449594c0baf127f73c8b2c2e82",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1817,13 +1817,22 @@
       ],
       "5649b64c-6943-5197-a885-68404af65bbd": [
         "sq--src-components-image-js"
+      ],
+      "22f29b4e-692e-55b0-8d10-21e650b123d4": [
+        "/first-post"
+      ],
+      "6e2980b3-33d1-5ddf-9028-e45b52ab52c7": [
+        "/second-post"
+      ],
+      "9bdbdb40-9101-5d12-9c97-ccce7c49f299": [
+        "/third-post"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
-        "sq--src-components-archive-js",
-        "sq--src-components-post-layout-js"
+        null,
+        "sq--src-components-archive-js"
       ]
     }
   },
@@ -1839,14 +1848,14 @@
     "sq--src-components-image-js": 2011440971,
     "sq--src-components-archive-js": 2597579002,
     "somefakepage-bea": "601/path---somefakepage-bea-f3b-NZuapzHg3X9TaN1iIixfv1W23E",
-    "third-post-f99": "761/path---third-post-f-99-5fb-8sJ5QmyyjW3IRJkzeYLl1rsMmlk",
-    "second-post-da0": "578/path---second-post-da-0-248-ILH8JKNM9pTEEhIH5AHETEb5N38",
-    "first-post-eb4": "563/path---first-post-eb-4-4f5-gbN6JYsXote2YP96yDfqMBSVic",
+    "third-post-f99": "321/path---third-post-f-99-5fb-HwQr5Vit04Q1kEt1BBTvwVGdGM",
+    "second-post-da0": "709/path---second-post-da-0-248-4skkdg4gZoowPGtUiXzZ7Xlevc",
+    "first-post-eb4": "246/path---first-post-eb-4-4f5-RwbKILIxoAI6iZ383jljNX5POpg",
     "sq--src-components-post-layout-js": 129645451
   },
   "components": {
     "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js": {
-      "query": "",
+      "query": "query PostQuery(\n  $slug: String!\n) {\n  markdownRemark(frontmatter: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      title\n      date\n      slug\n    }\n  }\n}\n",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js"
     },
     "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/.cache/dev-404-page.js": {
@@ -1902,14 +1911,6 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 1025518380
-    },
-    "sq--src-components-post-layout-js": {
-      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs129645451",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "sq--src-components-post-layout-js",
-      "jsonName": "sq--src-components-post-layout-js",
-      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsPostLayoutJs129645451 {\n  allMarkdownRemark {\n    edges {\n      node {\n        excerpt(pruneLength: 100000)\n        frontmatter {\n          slug\n          title\n          date\n        }\n      }\n    }\n  }\n}\n",
-      "hash": 129645451
     }
   }
 }

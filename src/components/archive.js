@@ -24,7 +24,7 @@ const Archive = () => (
   <StaticQuery
     query={POST_ARCHIVE_QUERY}
     render={data => (
-      <div style={{ marginTop: 'auto' }}>
+      <div style={{ marginTop: '5rem' }}>
         <aside>
           <h3> Archive </h3>
           {data.allMarkdownRemark.edges.map(edge => (
