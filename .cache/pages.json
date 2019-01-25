@@ -25,23 +25,23 @@
         "path": "/dev-404-page/"
     },
     {
-        "componentChunkName": "component---src-components-post-layout-js",
-        "jsonName": "first-post-eb4",
-        "path": "/first-post"
-    },
-    {
         "componentChunkName": "component---src-pages-page-2-js",
         "jsonName": "page-2-fbc",
         "path": "/page-2/"
     },
     {
         "componentChunkName": "component---src-components-post-layout-js",
-        "jsonName": "second-post-da0",
-        "path": "/second-post"
+        "jsonName": "post-first-post-6a7",
+        "path": "/post/first-post"
     },
     {
         "componentChunkName": "component---src-components-post-layout-js",
-        "jsonName": "third-post-f99",
-        "path": "/third-post"
+        "jsonName": "post-second-post-d94",
+        "path": "/post/second-post"
+    },
+    {
+        "componentChunkName": "component---src-components-post-layout-js",
+        "jsonName": "post-third-post-4c1",
+        "path": "/post/third-post"
     }
 ]

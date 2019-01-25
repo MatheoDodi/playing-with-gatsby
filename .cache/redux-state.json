@@ -1035,7 +1035,7 @@
       "resolve": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "776599038516bb898a697a2e6701d9cf",
+      "version": "6130cafbf420d8120df88666c250df23",
       "pluginOptions": {
         "plugins": []
       },
@@ -1121,7 +1121,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "f43f5ebe89c02a37c7d23e53e3c0d8fa",
+        "contentDigest": "f99b06ab5ed6993c24b57ac665e0d638",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1239,12 +1239,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-25T04:55:15.430Z",
+      "buildTime": "2019-01-25T05:28:25.334Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "6110a793fdfe25b646f8d49dea05e0cb",
+        "contentDigest": "bbd8b359a3d3e55f712dbb774caef23a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1254,7 +1254,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2cb7b1df3a515e6974b7dd74d4f87504",
+        "contentDigest": "023b44feb216ee4e87e1e323eeb7ecd1",
         "type": "Directory",
         "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1266,7 +1266,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-25T04:55:19.241Z",
+      "accessTime": "2019-01-25T05:28:29.881Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.864Z",
       "root": "C:/",
@@ -1282,11 +1282,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627437370,
-      "atimeMs": 1548392119241.433,
+      "atimeMs": 1548394109880.6648,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365864.3135,
-      "atime": "2019-01-25T04:55:19.241Z",
+      "atime": "2019-01-25T05:28:29.881Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.864Z"
@@ -1311,7 +1311,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-25T04:51:57.864Z",
+      "accessTime": "2019-01-25T04:55:22.882Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.866Z",
       "root": "C:/",
@@ -1327,11 +1327,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11821949021914444,
-      "atimeMs": 1548391917864.4316,
+      "atimeMs": 1548392122882.385,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365866.3142,
-      "atime": "2019-01-25T04:51:57.864Z",
+      "atime": "2019-01-25T04:55:22.882Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.866Z"
@@ -1366,7 +1366,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-01-24T05:22:45.866Z",
-      "accessTime": "2019-01-25T04:52:20.430Z",
+      "accessTime": "2019-01-25T05:28:21.378Z",
       "changeTime": "2019-01-24T05:22:45.866Z",
       "birthTime": "2019-01-24T05:22:45.865Z",
       "root": "C:/",
@@ -1382,11 +1382,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4503599627437374,
-      "atimeMs": 1548391940429.8027,
+      "atimeMs": 1548394101378.0935,
       "mtimeMs": 1548307365866.3142,
       "ctimeMs": 1548307365866.3142,
       "birthtimeMs": 1548307365865.3135,
-      "atime": "2019-01-25T04:52:20.430Z",
+      "atime": "2019-01-25T05:28:21.378Z",
       "mtime": "2019-01-24T05:22:45.866Z",
       "ctime": "2019-01-24T05:22:45.866Z",
       "birthtime": "2019-01-24T05:22:45.865Z"
@@ -1406,7 +1406,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3638e27433c9cb34a1f348411ee183cf",
+        "contentDigest": "025b771a04c5b7b60e0fa94d3e994a9b",
         "type": "Directory",
         "description": "Directory \"src\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1418,7 +1418,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-01-24T05:58:38.876Z",
-      "accessTime": "2019-01-25T04:55:19.251Z",
+      "accessTime": "2019-01-25T05:28:29.898Z",
       "changeTime": "2019-01-24T05:58:38.876Z",
       "birthTime": "2019-01-24T05:22:45.867Z",
       "root": "C:/",
@@ -1434,11 +1434,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 3940649674016254,
-      "atimeMs": 1548392119251.435,
+      "atimeMs": 1548394109897.6682,
       "mtimeMs": 1548309518875.8604,
       "ctimeMs": 1548309518875.8604,
       "birthtimeMs": 1548307365867.3132,
-      "atime": "2019-01-25T04:55:19.251Z",
+      "atime": "2019-01-25T05:28:29.898Z",
       "mtime": "2019-01-24T05:58:38.876Z",
       "ctime": "2019-01-24T05:58:38.876Z",
       "birthtime": "2019-01-24T05:22:45.867Z"
@@ -1463,7 +1463,7 @@
       "size": 689,
       "prettySize": "689 B",
       "modifiedTime": "2019-01-24T07:03:20.649Z",
-      "accessTime": "2019-01-25T04:51:54.250Z",
+      "accessTime": "2019-01-25T04:55:19.255Z",
       "changeTime": "2019-01-24T07:03:20.649Z",
       "birthTime": "2019-01-24T05:22:45.868Z",
       "root": "C:/",
@@ -1479,11 +1479,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4785074604148248,
-      "atimeMs": 1548391914249.5415,
+      "atimeMs": 1548392119255.4468,
       "mtimeMs": 1548313400649.288,
       "ctimeMs": 1548313400649.288,
       "birthtimeMs": 1548307365868.314,
-      "atime": "2019-01-25T04:51:54.250Z",
+      "atime": "2019-01-25T04:55:19.255Z",
       "mtime": "2019-01-24T07:03:20.649Z",
       "ctime": "2019-01-24T07:03:20.649Z",
       "birthtime": "2019-01-24T05:22:45.868Z"
@@ -1508,7 +1508,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2019-01-24T06:01:14.589Z",
-      "accessTime": "2019-01-25T04:51:54.250Z",
+      "accessTime": "2019-01-25T04:55:19.256Z",
       "changeTime": "2019-01-24T06:01:14.589Z",
       "birthTime": "2019-01-24T05:22:45.868Z",
       "root": "C:/",
@@ -1524,11 +1524,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 4222124650726979,
-      "atimeMs": 1548391914249.5415,
+      "atimeMs": 1548392119256.436,
       "mtimeMs": 1548309674589.155,
       "ctimeMs": 1548309674589.155,
       "birthtimeMs": 1548307365868.314,
-      "atime": "2019-01-25T04:51:54.250Z",
+      "atime": "2019-01-25T04:55:19.256Z",
       "mtime": "2019-01-24T06:01:14.589Z",
       "ctime": "2019-01-24T06:01:14.589Z",
       "birthtime": "2019-01-24T05:22:45.868Z"
@@ -1553,7 +1553,7 @@
       "size": 108,
       "prettySize": "108 B",
       "modifiedTime": "2019-01-24T07:02:54.295Z",
-      "accessTime": "2019-01-25T04:51:54.250Z",
+      "accessTime": "2019-01-25T04:55:19.256Z",
       "changeTime": "2019-01-24T07:02:54.295Z",
       "birthTime": "2019-01-24T05:58:38.876Z",
       "root": "C:/",
@@ -1569,11 +1569,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 11258999068548370,
-      "atimeMs": 1548391914249.5415,
+      "atimeMs": 1548392119256.436,
       "mtimeMs": 1548313374295.1604,
       "ctimeMs": 1548313374295.1604,
       "birthtimeMs": 1548309518875.8604,
-      "atime": "2019-01-25T04:51:54.250Z",
+      "atime": "2019-01-25T04:55:19.256Z",
       "mtime": "2019-01-24T07:02:54.295Z",
       "ctime": "2019-01-24T07:02:54.295Z",
       "birthtime": "2019-01-24T05:58:38.876Z"
@@ -1635,10 +1635,10 @@
       "rawMarkdownBody": "\r\n# Third Post!\r\n\r\nAnothah one!\r\n",
       "fileAbsolutePath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/posts/post3.md"
     },
-    "SitePage /first-post": {
-      "jsonName": "first-post-eb4",
-      "internalComponentName": "ComponentFirstPost",
-      "path": "/first-post",
+    "SitePage /post/first-post": {
+      "jsonName": "post-first-post-6a7",
+      "internalComponentName": "ComponentPostFirstPost",
+      "path": "/post/first-post",
       "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
       "componentChunkName": "component---src-components-post-layout-js",
       "context": {
@@ -1647,20 +1647,20 @@
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "SitePage /first-post",
+      "id": "SitePage /post/first-post",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9cdaefb26442df1ff484e96053279fc0",
+        "contentDigest": "cda1c642df926e7a3467acfeb3868110",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /second-post": {
-      "jsonName": "second-post-da0",
-      "internalComponentName": "ComponentSecondPost",
-      "path": "/second-post",
+    "SitePage /post/second-post": {
+      "jsonName": "post-second-post-d94",
+      "internalComponentName": "ComponentPostSecondPost",
+      "path": "/post/second-post",
       "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
       "componentChunkName": "component---src-components-post-layout-js",
       "context": {
@@ -1669,20 +1669,20 @@
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "SitePage /second-post",
+      "id": "SitePage /post/second-post",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1ea9ed38b5387512d5f0a60a9d51d8f4",
+        "contentDigest": "2ed89ecfe263a861a4ebb2e3001095e8",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /third-post": {
-      "jsonName": "third-post-f99",
-      "internalComponentName": "ComponentThirdPost",
-      "path": "/third-post",
+    "SitePage /post/third-post": {
+      "jsonName": "post-third-post-4c1",
+      "internalComponentName": "ComponentPostThirdPost",
+      "path": "/post/third-post",
       "component": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
       "componentChunkName": "component---src-components-post-layout-js",
       "context": {
@@ -1691,12 +1691,12 @@
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js",
-      "id": "SitePage /third-post",
+      "id": "SitePage /post/third-post",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "702c30449594c0baf127f73c8b2c2e82",
+        "contentDigest": "d72c46964d9e4546d7aebc3b0e414bdc",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1804,13 +1804,13 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b092997a304d18e5e6d65e017e0aaf94"
+    "PLUGINS_HASH": "bb5aed2218028a94b357033a6392e200"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-layout-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-layout-js"
       ],
       "30f78004-7952-587d-b9cb-95f8c7c4efd5": [
         "sq--src-components-image-js"
@@ -1819,20 +1819,20 @@
         "sq--src-components-image-js"
       ],
       "22f29b4e-692e-55b0-8d10-21e650b123d4": [
-        "/first-post"
+        "/post/first-post"
       ],
       "6e2980b3-33d1-5ddf-9028-e45b52ab52c7": [
-        "/second-post"
+        "/post/second-post"
       ],
       "9bdbdb40-9101-5d12-9c97-ccce7c49f299": [
-        "/third-post"
+        "/post/third-post"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
-        null,
-        "sq--src-components-archive-js"
+        "sq--src-components-archive-js",
+        "sq--src-components-listing-js"
       ]
     }
   },
@@ -1851,7 +1851,11 @@
     "third-post-f99": "321/path---third-post-f-99-5fb-HwQr5Vit04Q1kEt1BBTvwVGdGM",
     "second-post-da0": "709/path---second-post-da-0-248-4skkdg4gZoowPGtUiXzZ7Xlevc",
     "first-post-eb4": "246/path---first-post-eb-4-4f5-RwbKILIxoAI6iZ383jljNX5POpg",
-    "sq--src-components-post-layout-js": 129645451
+    "sq--src-components-post-layout-js": 129645451,
+    "sq--src-components-listing-js": 917944895,
+    "post-first-post-6a7": "204/path---post-first-post-6-a-7-1b7-RwbKILIxoAI6iZ383jljNX5POpg",
+    "post-second-post-d94": "469/path---post-second-post-d-94-4a5-4skkdg4gZoowPGtUiXzZ7Xlevc",
+    "post-third-post-4c1": "420/path---post-third-post-4-c-1-2fa-HwQr5Vit04Q1kEt1BBTvwVGdGM"
   },
   "components": {
     "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/postLayout.js": {
@@ -1888,14 +1892,6 @@
       "query": "query BlogPostArchive {\n  allMarkdownRemark(limit: 5, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        html\n        frontmatter {\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
       "hash": 2597579002
     },
-    "sq--src-components-image-js": {
-      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
-      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/image.js",
-      "id": "sq--src-components-image-js",
-      "jsonName": "sq--src-components-image-js",
-      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "hash": 2011440971
-    },
     "sq--src-components-layout-js": {
       "name": "SiteTitleQuery",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/layout.js",
@@ -1904,6 +1900,14 @@
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
       "hash": 755544856
     },
+    "sq--src-components-image-js": {
+      "name": "cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query cUsersMatthewDodiDocumentsAllProjectsPlayingWithGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
       "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/seo.js",
@@ -1911,6 +1915,14 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 1025518380
+    },
+    "sq--src-components-listing-js": {
+      "name": "BlogPostListing",
+      "componentPath": "C:/Users/Matthew Dodi/Documents/All Projects/playing-with-gatsby/src/components/listing.js",
+      "id": "sq--src-components-listing-js",
+      "jsonName": "sq--src-components-listing-js",
+      "query": "query BlogPostListing {\n  allMarkdownRemark(limit: 10, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        excerpt\n        frontmatter {\n          date(formatString: \"MMMM DD, YYYY\")\n          slug\n          title\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 917944895
     }
   }
 }
