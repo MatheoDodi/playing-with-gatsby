@@ -29,7 +29,7 @@ const Archive = () => (
           <h3> Archive </h3>
           {data.allMarkdownRemark.edges.map(edge => (
             <h4 key={edge.node.frontmatter.slug}>
-              <Link to={`${edge.node.frontmatter.slug}`}>
+              <Link to={`/post${edge.node.frontmatter.slug}`}>
                 {edge.node.frontmatter.title}
               </Link>
             </h4>
