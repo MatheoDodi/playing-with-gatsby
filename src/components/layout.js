@@ -1,12 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { StaticQuery, graphql } from 'gatsby';
+import Img from 'gatsby-image';
 
 import Header from './header';
 import Archive from './archive';
 import './layout.css';
 
-const Layout = ({ children }) => (
+const Layout = ({ children, location }) => (
   <StaticQuery
     query={graphql`
       query SiteTitleQuery {
@@ -15,11 +16,21 @@ const Layout = ({ children }) => (
             title
           }
         }
+        file(relativePath: { regex: "/bg/" }) {
+          childImageSharp {
+            fluid(maxWidth: 1000) {
+              ...GatsbyImageSharpFluid_tracedSVG
+            }
+          }
+        }
       }
     `}
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
+        {location.pathname === '/' && (
+          <Img fluid={data.file.childImageSharp.fluid} />
+        )}
         <div
           style={{
             margin: `0 auto`,

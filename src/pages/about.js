@@ -2,8 +2,8 @@ import React from 'react';
 
 import Layout from '../components/layout';
 
-const About = () => (
-  <Layout>
+const About = ({ location }) => (
+  <Layout location={location}>
     <h1>About us</h1>
     <p>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
